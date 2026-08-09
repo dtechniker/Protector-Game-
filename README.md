@@ -7,7 +7,6 @@
 [Deutsch](#deutsch) | [English](#english)
 
 ---
-
 <a name="deutsch"></a>
 # 🇩🇪 Deutsch
 
@@ -69,6 +68,9 @@ Da das Projekt ohne Build-Tools oder Abhängigkeiten auskommt, lässt es sich ex
    cd [PROJEKTNAME]
 
 
+
+
+<a name="english"></a>
    # 🇬🇧 English README
 
 # 🚁 [PROJEKTNAME] – Amiga Retro Helicopter Shooter
