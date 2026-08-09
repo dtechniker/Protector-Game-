@@ -1,5 +1,9 @@
 # 🚁 [PROJEKTNAME]
 
+
+<img src="Protector (by DTech).jpg" alt="localization_editor_interface" width="800">
+
+
 [Deutsch](#deutsch) | [English](#english)
 
 ---
